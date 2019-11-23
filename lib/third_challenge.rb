@@ -12,7 +12,6 @@ def third_challenge
         :age => "54"
       },
         #your key/value pairs here
-        },
       :hero => {
         :mane => "Romeo",
         :age => "15",
@@ -31,7 +30,7 @@ def third_challenge
         :name => "Lady Capulet",
         :age => "51"
         #your key/value pairs here
-        },
+      },
       :heroine => {
         :name => "Juliet",
         :age => "15",
